@@ -2,7 +2,7 @@
     package="com.example.insta_chat">
    <application
        android:usesCleartextTraffic="true"
-        android:label="insta_chat"
+        android:label="AnoymChat"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
